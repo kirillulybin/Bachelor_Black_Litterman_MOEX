@@ -2,6 +2,7 @@
 This repository contains python code and source data for my 2018 Bachelor thesis: "Implementing Black-Litterman Model using analyst consensus: evidence from Russia".
 
 File "BLv2.ipynb" contains the main code that performs the simulation.
+
 File "Black-Litterman.pdf" contains the text of the work.
 
 
